@@ -1,0 +1,27 @@
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\bin\Debug\MineSweep.exe
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\bin\Debug\MineSweep.pdb
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\ResolveAssemblyReference.cache
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\MineSweep.Form1.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\MineSweep.MineResources.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\MineSweep.Properties.Resources.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\MineSweep.csproj.GenerateResource.Cache
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\MineSweep.exe
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Debug\MineSweep.pdb
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\MineSweep.exe
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\MineSweep.pdb
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\bin\Debug\MineSweep.exe
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\bin\Debug\MineSweep.pdb
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\MineSweep.Form1.resources
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\MineSweep.MineResources.resources
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\MineSweep.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\MineSweep\MineSweep\obj\Debug\MineSweep.csproj.GenerateResource.Cache
+F:\MineSweep\MineSweep\obj\Debug\MineSweep.exe
+F:\MineSweep\MineSweep\obj\Debug\MineSweep.pdb
+F:\MineSweep\MineSweep\bin\Debug\MineSweep.exe
+F:\MineSweep\MineSweep\bin\Debug\MineSweep.pdb
+F:\MineSweep\MineSweep\obj\Debug\ResolveAssemblyReference.cache
+F:\MineSweep\MineSweep\obj\Debug\MineSweep.Form1.resources
+F:\MineSweep\MineSweep\obj\Debug\MineSweep.MineResources.resources
+F:\MineSweep\MineSweep\obj\Debug\MineSweep.Properties.Resources.resources
+F:\MineSweep\MineSweep\obj\Debug\MineSweep.csproj.GenerateResource.Cache

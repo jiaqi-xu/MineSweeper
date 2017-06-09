@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MineSweep">
+</Property><Property Name="Solution File" Value="C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep.suo">
+</Property><Property Name="Date" Value="2012年4月22日">
+</Property><Property Name="Time" Value="15:08">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MineSweep.sln" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MineSweep.suo" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep.suo">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\MineSweep.csproj" Description="Project file successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\MineSweep.csproj">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\AboutMineSweep.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\AboutMineSweep.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\AboutMineSweep.designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\AboutMineSweep.designer.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Draws.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Draws.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Form1.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Form1.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\GameProcess.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\GameProcess.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\MineResources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\MineResources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Program.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Program.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\SetMap.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\SetMap.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\UserDefine.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\UserDefine.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\UserDefine.Designer.cs" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\UserDefine.Designer.cs">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Area.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Area.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\doubt.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\doubt.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\flag.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\flag.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\MenuBar.png" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\MenuBar.png">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\mine_deexplored.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\mine_deexplored.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\mine_inexplored.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\mine_inexplored.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\mine_original.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\mine_original.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_1.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_1.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_2.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_2.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_3.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_3.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_4.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_4.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_5.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_5.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_6.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_6.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_7.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_7.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\Num_8.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\Num_8.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\PassedTime.png" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\PassedTime.png">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\UnmarkedMines.png" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\UnmarkedMines.png">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Booming.wav" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Booming.wav">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\EDE855F4B9B2D1DF0EFABD9E10E5ABD8.gif" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\EDE855F4B9B2D1DF0EFABD9E10E5ABD8.gif">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Resources\blank.jpg" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Resources\blank.jpg">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\MineIco.ico" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\MineIco.ico">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\AboutMineSweep.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\AboutMineSweep.resx">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Form1.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Form1.resx">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\MineResources.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\MineResources.resx">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\UserDefine.resx" Description="File successfully backed up as C:\Users\Administrator\Desktop\MineSweep\MineSweep\Backup\MineSweep\UserDefine.resx">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\MineSweep.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MineSweep" Source="MineSweep\MineSweep.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MineSweep.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MineSweep.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MineSweep" Source="MineSweep\MineSweep.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

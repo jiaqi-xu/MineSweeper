@@ -1,0 +1,45 @@
+F:\MineSweep\MineSweep\bin\Release\MineSweep.exe
+F:\MineSweep\MineSweep\bin\Release\MineSweep.pdb
+F:\MineSweep\MineSweep\obj\Release\MineSweep.Form1.resources
+F:\MineSweep\MineSweep\obj\Release\MineSweep.MineResources.resources
+F:\MineSweep\MineSweep\obj\Release\MineSweep.Properties.Resources.resources
+F:\MineSweep\MineSweep\obj\Release\MineSweep.csproj.GenerateResource.Cache
+F:\MineSweep\MineSweep\obj\Release\MineSweep.exe
+F:\MineSweep\MineSweep\obj\Release\MineSweep.pdb
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.exe
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.pdb
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\bin\Release\MineSweep.exe
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\bin\Release\MineSweep.pdb
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\ResolveAssemblyReference.cache
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.Form1.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.MineResources.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.Properties.Resources.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.csproj.GenerateResource.Cache
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.UserDefine.resources
+F:\resource files\C# resource files\Little Fun\MineSweep\MineSweep\obj\Release\MineSweep.About.resources
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.exe
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.pdb
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\bin\Release\MineSweep.exe
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\bin\Release\MineSweep.pdb
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.About.resources
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.Form1.resources
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.MineResources.resources
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.UserDefine.resources
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\MineSweep\MineSweep\MineSweep\obj\Release\ResGen.write.1.tlog
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.exe
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.pdb
+E:\MineSweep\MineSweep\MineSweep\bin\Release\MineSweep.exe
+E:\MineSweep\MineSweep\MineSweep\bin\Release\MineSweep.pdb
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.csprojResolveAssemblyReference.cache
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.About.resources
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.Form1.resources
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.MineResources.resources
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.Properties.Resources.resources
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.UserDefine.resources
+E:\MineSweep\MineSweep\MineSweep\obj\Release\MineSweep.csproj.GenerateResource.Cache
+F:\MineSweep\MineSweep\obj\Release\MineSweep.csprojResolveAssemblyReference.cache
+F:\MineSweep\MineSweep\obj\Release\MineSweep.About.resources
+F:\MineSweep\MineSweep\obj\Release\MineSweep.UserDefine.resources
